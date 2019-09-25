@@ -1,0 +1,6 @@
+obj(0:mouse 1:keyboard),action,delay(s)
+1,drawc,1
+1,presses_control_s,1
+0,"1,238,829",1
+1,press_s,1
+1,presses_alt_F4,1
